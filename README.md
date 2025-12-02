@@ -2,6 +2,10 @@
 
 A modern music streaming application built with React, inspired by Spotify. This project features a sleek UI for browsing albums, playing songs, and managing playlists.
 
+# Project Preview 
+
+<img width="958" height="508" alt="image" src="https://github.com/user-attachments/assets/18d2d93d-8c65-4528-b333-bdc60dfc28b2" />
+
 ## Features
 
 - **Browse Albums**: View and explore different music albums
